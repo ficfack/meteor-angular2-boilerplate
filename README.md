@@ -11,17 +11,17 @@ meteor remove
 Need some packages and npm modules.
 
 
-**Install angular2 package**
+#### Install angular2 package
 meteor remove blaze-html-templates
 meteor add angular2-compilers
 
-**Typescript configuration**
+#### Typescript configuration
 tsconfig.json
 declarations.d.ts
 
 Learn how to angular-meteor bootstraping (https://angular-meteor.com/tutorials/whatsapp2/meteor/setup).
 
-**Add Modules**
+#### Add Modules
 meteor npm install --save @angular/common
 meteor npm install --save @angular/compiler
 meteor npm install --save @angular/compiler-cli
@@ -42,7 +42,7 @@ meteor npm install --save-dev meteor-typings
 meteor npm install --save-dev typescript
 meteor npm install --save @angular/animations
 
-**Plugin for Mobile Function - Cordova**
+#### Plugin for Mobile Function - Cordova
 meteor add cordova:cordova-plugin-whitelist@1.3.1
 meteor add cordova:cordova-plugin-console@1.0.5
 meteor add cordova:cordova-plugin-statusbar@2.2.1
