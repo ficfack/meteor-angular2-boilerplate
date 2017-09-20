@@ -4,13 +4,17 @@ Meteor Boilerplate for Angular2 base Front-end.
 
 Learn how to build this app by following the [Meteor Tutorial](http://www.meteor.com/install).
 
+#### Create Meteor Project
+```
+   $ meteor create project-name
+   $ cd project-name
+```
 If you are setting up for the first time, we recommend updating to the latest version.
 ```
-   $ meteor remove
+   $ meteor update
 ```
-
+It's simple.
 Need some packages and npm modules.
-
 
 #### Install angular2 package
 ```
