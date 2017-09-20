@@ -27,7 +27,7 @@ Need some packages and npm modules.
    $ tsconfig.json
    $ declarations.d.ts
 ```
-Learn how to angular-meteor bootstraping (https://angular-meteor.com/tutorials/whatsapp2/meteor/setup).
+Learn how to angular-meteor [bootstraping](https://angular-meteor.com/tutorials/whatsapp2/meteor/setup).
 
 #### Add Modules
 ```
