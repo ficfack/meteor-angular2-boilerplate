@@ -2,7 +2,7 @@
 
 Meteor Boilerplate for Angular2 base Front-end.
 
-Learn how to build this app by following the [Meteor Tutorial](http://www.meteor.com/install).
+Learn how to build to basic app by following the [Meteor Tutorial](https://www.meteor.com/install).
 
 #### Create Meteor Project
 ```
@@ -62,4 +62,6 @@ Learn how to angular-meteor [bootstraping](https://angular-meteor.com/tutorials/
    $ meteor add cordova:cordova-plugin-splashscreen@4.0.1
 ```
 
-Read more about building apps with Meteor in the [Meteor Guide](http://guide.meteor.com).
+Read more about building apps with Meteor in the [Meteor Guide](https://guide.meteor.com).
+
+and Learn how to [Angular reference.](https://angular.io/guide/quickstart)
