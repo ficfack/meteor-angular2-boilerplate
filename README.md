@@ -50,6 +50,8 @@ Learn how to angular-meteor [bootstraping](https://angular-meteor.com/tutorials/
    $ meteor npm install --save-dev meteor-typings
    $ meteor npm install --save-dev typescript
    $ meteor npm install --save @angular/animations
+   $ meteor npm install --save moment
+   $ meteor npm install --save angular2-moment
 ```
 
 #### Plugin for Mobile Function - Cordova
